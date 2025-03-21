@@ -29,8 +29,8 @@ Write a program that:
 ### Example 4:
 
 - Input: 4
-- Output: 4
-- Explanation: (1, 1, 1, 1), (1, 1, 2), (2, 1, 1), (2, 2)
+- Output: 5
+- Explanation: (1, 1, 1, 1), (1, 1, 2), (1, 2, 1), (2, 1, 1), (2, 2)
 
 ### Example 5:
 
